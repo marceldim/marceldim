@@ -1,17 +1,15 @@
-# Hi 👋 I'm Chinonso
+# Hi 👋 I'm Marcel
 
-💻 Web Developer  
-⚡ Learning Next.js, React and Firebase  
+Web developer building with React, Next.js & Firebase.
 
-## 🚀 Current Project
-CaseVault – a platform where users can share and explore real-life cases.
+## 🚀 Currently building
+**CaseVault**: a platform to publish and explore case studies, with
+authentication, search and filtering, user profiles, and community interaction.
+[Repo](link-to-repo) · [Live demo](link-to-demo)
 
-## 🛠 Tech Stack
-- JavaScript
-- React
-- Next.js
-- Firebase
+## 🛠️ Tech stack
+JavaScript · React · Next.js · Firebase · Tailwind CSS · MUI
 
-## 🌐 Connect With Me
-X: https://x.com/Nonni_d3v
-
+## 🌐 Connect with me
+X: [@marceldim_](https://x.com/marceldim_)
+Open to freelance projects. DM me on X.
