@@ -5,7 +5,7 @@ Web developer building with React, Next.js & Firebase.
 ## 🚀 Currently building
 **CaseVault**: a platform to publish and explore case studies, with
 authentication, search and filtering, user profiles, and community interaction.
-[Repo](link-to-repo) · [Live demo](link-to-demo)
+[Repo]https://github.com/nonni-dev/casevault · [Live demo]https://casevault-seven.vercel.app/
 
 ## 🛠️ Tech stack
 JavaScript · React · Next.js · Firebase · Tailwind CSS · MUI
